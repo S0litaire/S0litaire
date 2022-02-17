@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently trying to learn LaTeX and how all this .git stuff works... 
+🌱 I’m currently trying to learn LaTeX, Hugo and how all this .git stuff works... 
 <!--
 **S0litaire/S0litaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
