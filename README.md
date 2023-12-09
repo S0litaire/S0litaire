@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-🌱 I’m currently trying to learn LaTeX, Hugo, Python, Bash and how all this ".git" stuff works... 
+🤔 I’m currently trying to learn LaTeX, Hugo, Python, Bash and how all this "git" stuff works... 
 
-Just experimenting with AlpineOS on my Rasberry Pi.
+🤔 Just experimenting with AlpineOS on my Rasberry Pi.
+
 
 <!--
 **S0litaire/S0litaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
